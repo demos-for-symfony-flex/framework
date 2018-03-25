@@ -2,7 +2,7 @@
     "name": "symfony-flex-demo/framework",
     "type": "project",
     "license": "MIT",
-    "description": "A minimal Symfony Flex project (script like)",
+    "description": "A minimal Symfony Framework Flex project",
     "require": {
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^3.4 || ^4.0",
