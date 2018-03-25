@@ -5,7 +5,8 @@
     "description": "A minimal Symfony Flex project (script like)",
     "require": {
         "symfony/flex": "^1.0",
-        "symfony/framework-bundle": "^3.4 || ^4.0"
+        "symfony/framework-bundle": "^3.4 || ^4.0",
+        "symfony/yaml": "^3.4 || ^4.0"
     },
     "require-dev": {
         "symfony/dotenv": "^3.4 || ^4.0"
